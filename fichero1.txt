@@ -1,5 +1,3 @@
 Primera línea 1
-CAMBIOS
-MÁS CAMBIOS
 
-Cambios desde IntellIJ jeje
+Estoy en la rama creada, a ver si funciona bien.
